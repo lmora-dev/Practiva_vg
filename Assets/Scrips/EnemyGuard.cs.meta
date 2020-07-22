@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0de5b89644a55ca43a3e3173c5b6a99f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shootingSE: {fileID: 8300000, guid: cc7cd05b9e5773b4e92dd4fef171002f, type: 3}
+  - bulletSpawner: {instanceID: 0}
+  - bullet: {fileID: 2925882276777185006, guid: dc8e8b2393c889e41a9a0fa740db986c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

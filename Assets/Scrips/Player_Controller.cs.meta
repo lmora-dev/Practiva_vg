@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 16cb2d72cc8162e4e9475936f24668cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundCheck: {instanceID: 0}
+  - joystick: {instanceID: 0}
+  - DatosPlayer: {fileID: 11400000, guid: 369faa786b5972642a37f3f9ff559b30, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

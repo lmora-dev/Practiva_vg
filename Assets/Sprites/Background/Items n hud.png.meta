@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: 9b5d9255d4445b84a87cb2097598ad45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 528044421735061922
+    second: Items n hud_0
+  - first:
+      213: 6336529934953354162
+    second: Items n hud_1
+  - first:
+      213: -2378649116994387111
+    second: Items n hud_2
+  - first:
+      213: 2081375692875173123
+    second: Items n hud_3
+  - first:
+      213: -6606385722415523725
+    second: Items n hud_4
+  - first:
+      213: -4276368997961892493
+    second: Items n hud_5
+  - first:
+      213: -4249657534138334817
+    second: Items n hud_6
+  - first:
+      213: -4439492073230244470
+    second: Items n hud_7
+  - first:
+      213: 8428984854300387820
+    second: Items n hud_8
+  - first:
+      213: -3263808393615323311
+    second: Items n hud_9
+  - first:
+      213: 1586516573984117096
+    second: Items n hud_10
+  - first:
+      213: 3093714898680974927
+    second: Items n hud_11
+  - first:
+      213: -5623129954235992795
+    second: Items n hud_12
+  - first:
+      213: 8947193103218411955
+    second: Items n hud_13
+  - first:
+      213: -6206385919430518608
+    second: Items n hud_14
+  - first:
+      213: -877904393152634309
+    second: Items n hud_15
+  - first:
+      213: -4084589688120892152
+    second: Items n hud_16
+  - first:
+      213: 8500176768099463902
+    second: Items n hud_17
+  - first:
+      213: 7076520231602201420
+    second: Items n hud_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Items n hud_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e073eb6dd21d009488d964b8f22b0035
+      internalID: 528044421735061922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a1dcc86a798b446ab5309d47329153
+      internalID: 6336529934953354162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 104
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb907904f0861894a8b4c8fbe9c0ada7
+      internalID: -2378649116994387111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 104
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5e6a76becb3704dabd42f567caf15c
+      internalID: 2081375692875173123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 104
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa577be7cb753a1429f5d4bc300804bf
+      internalID: -6606385722415523725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 104
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b25bca1045e0954b88876c76a63b030
+      internalID: -4276368997961892493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6437a09c12c53245b5a51486d1d865f
+      internalID: -4249657534138334817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 104
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b1e5662543b884aaa3184a3ac5c763
+      internalID: -4439492073230244470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 104
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a64f2c86ccf29489f9ebcb10be4b8b
+      internalID: 8428984854300387820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 104
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ba8dfcf58edcb43a5a3d5853aad86f
+      internalID: -3263808393615323311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 104
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bdade620c1bdc45b51360b8faf2dc5
+      internalID: 1586516573984117096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 104
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00488c134e4275346b1f6ff98b027246
+      internalID: 3093714898680974927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539e2379bcf213c4e98b44692836f573
+      internalID: -5623129954235992795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 102
+        width: 69
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224522c35ef1d1548a0f3a5bd75edaaf
+      internalID: 8947193103218411955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 107
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dc6a75c1974a0438a189ae79395f55
+      internalID: -6206385919430518608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 31
+        width: 103
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e13ed6399cde947b5f43eb4c3dc226
+      internalID: -877904393152634309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 16
+        width: 59
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040d580aae9d47d4f924b6da09f59ad6
+      internalID: -4084589688120892152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 16
+        width: 74
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b67dbf61eeb4fb4ab40d916b8c2250a
+      internalID: 8500176768099463902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Items n hud_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 39
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6ff431828b49048bcc0677b3ec7496
+      internalID: 7076520231602201420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 714fcef5ed493cc4a9b2194859882fea
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

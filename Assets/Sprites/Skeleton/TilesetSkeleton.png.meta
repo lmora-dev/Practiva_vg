@@ -1,0 +1,1312 @@
+fileFormatVersion: 2
+guid: 86a529061fa036e4186d8e51d9d0ebe6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7928991433015610667
+    second: TilesetSkeleton_0
+  - first:
+      213: 9073292373876118712
+    second: TilesetSkeleton_1
+  - first:
+      213: -5318107439987247
+    second: TilesetSkeleton_2
+  - first:
+      213: -7233163036158663890
+    second: TilesetSkeleton_3
+  - first:
+      213: -8105825308578449461
+    second: TilesetSkeleton_4
+  - first:
+      213: -8264215560898268120
+    second: TilesetSkeleton_5
+  - first:
+      213: -7254542638720229095
+    second: TilesetSkeleton_6
+  - first:
+      213: -2485831558728557592
+    second: TilesetSkeleton_7
+  - first:
+      213: -2015942039879604607
+    second: TilesetSkeleton_8
+  - first:
+      213: -7090092401519338153
+    second: TilesetSkeleton_9
+  - first:
+      213: 8986413593884141504
+    second: TilesetSkeleton_10
+  - first:
+      213: 4110278904356430372
+    second: TilesetSkeleton_11
+  - first:
+      213: 4465102159582202672
+    second: TilesetSkeleton_12
+  - first:
+      213: -8766229396762335487
+    second: TilesetSkeleton_13
+  - first:
+      213: 4505584765425323933
+    second: TilesetSkeleton_14
+  - first:
+      213: -615142941404223399
+    second: TilesetSkeleton_15
+  - first:
+      213: -6158816507460048654
+    second: TilesetSkeleton_16
+  - first:
+      213: 1703013349281533631
+    second: TilesetSkeleton_17
+  - first:
+      213: -1561558762622197620
+    second: TilesetSkeleton_18
+  - first:
+      213: -3695608963936796326
+    second: TilesetSkeleton_19
+  - first:
+      213: -1677489088177530444
+    second: TilesetSkeleton_20
+  - first:
+      213: -8996674695968594088
+    second: TilesetSkeleton_21
+  - first:
+      213: -3120885346276107433
+    second: TilesetSkeleton_22
+  - first:
+      213: -8492449094403014353
+    second: TilesetSkeleton_23
+  - first:
+      213: 2590668062640732714
+    second: TilesetSkeleton_24
+  - first:
+      213: -2194810038397292170
+    second: TilesetSkeleton_25
+  - first:
+      213: -6036626301250135143
+    second: TilesetSkeleton_26
+  - first:
+      213: -2867710540564756239
+    second: TilesetSkeleton_27
+  - first:
+      213: 6379439100737018831
+    second: TilesetSkeleton_28
+  - first:
+      213: 4760510355369668833
+    second: TilesetSkeleton_29
+  - first:
+      213: 3384054289545442979
+    second: TilesetSkeleton_30
+  - first:
+      213: -2885314564803325962
+    second: TilesetSkeleton_31
+  - first:
+      213: 2633445604606825165
+    second: TilesetSkeleton_32
+  - first:
+      213: -5578178695210994913
+    second: TilesetSkeleton_33
+  - first:
+      213: -7807912894687424627
+    second: TilesetSkeleton_34
+  - first:
+      213: -4426802842064542370
+    second: TilesetSkeleton_35
+  - first:
+      213: -7306835693083972295
+    second: TilesetSkeleton_36
+  - first:
+      213: -1007154386592776894
+    second: TilesetSkeleton_37
+  - first:
+      213: -3977159147248438141
+    second: TilesetSkeleton_38
+  - first:
+      213: 759439350883306493
+    second: TilesetSkeleton_39
+  - first:
+      213: 260234648352180759
+    second: TilesetSkeleton_40
+  - first:
+      213: -3354387223434592634
+    second: TilesetSkeleton_41
+  - first:
+      213: 448594355624120419
+    second: TilesetSkeleton_42
+  - first:
+      213: -1119796077097257373
+    second: TilesetSkeleton_43
+  - first:
+      213: -6377399181420217445
+    second: TilesetSkeleton_44
+  - first:
+      213: 9098462410004807608
+    second: TilesetSkeleton_45
+  - first:
+      213: 5662990971856358917
+    second: TilesetSkeleton_46
+  - first:
+      213: -4482631287283396142
+    second: TilesetSkeleton_47
+  - first:
+      213: -4295062408305419564
+    second: TilesetSkeleton_48
+  - first:
+      213: -6413362050173882586
+    second: TilesetSkeleton_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TilesetSkeleton_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 202
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afeb9925ac3bda4ab31c17dc6ac0787
+      internalID: -7928991433015610667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 202
+        width: 18
+        height: 38
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05603a32b6729a2439c185752b0c881a
+      internalID: 9073292373876118712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 202
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8494a440fbeec31458b4ab61be13166b
+      internalID: -5318107439987247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 202
+        width: 17
+        height: 38
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4423c630c26bc1048a85383a98eaa86c
+      internalID: -7233163036158663890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 202
+        width: 15
+        height: 38
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf806a785974c24fb870597cdffdf72
+      internalID: -8105825308578449461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 202
+        width: 15
+        height: 38
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b592bfcdbede064a82d25ed8d665bf7
+      internalID: -8264215560898268120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 202
+        width: 18
+        height: 38
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d307d5d1b262d534db94cdc7a7e936ff
+      internalID: -7254542638720229095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 202
+        width: 15
+        height: 38
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99343f5844bc23e44b63178e53d99fb6
+      internalID: -2485831558728557592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 202
+        width: 15
+        height: 38
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b777072ba50e2448b2d52be8aeffba
+      internalID: -2015942039879604607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_9
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 202
+        width: 17
+        height: 38
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7213e5ef8331ea945917796e13bae5de
+      internalID: -7090092401519338153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_10
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 202
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b352bd3cecbadc4599acf3e3c1a1e55
+      internalID: 8986413593884141504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 148
+        width: 18
+        height: 44
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723464839050ca64c97f20ce7b9f1da7
+      internalID: 4110278904356430372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 148
+        width: 18
+        height: 44
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bcd279f3b13694aa7619b1e6ca7905
+      internalID: 4465102159582202672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 148
+        width: 22
+        height: 44
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b960daafc5d2f478c7cdfdefd1ef72
+      internalID: -8766229396762335487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 148
+        width: 14
+        height: 49
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cd740ead855404ba83e3a9ebb288a5
+      internalID: 4505584765425323933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 148
+        width: 14
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf80b32acc8bc84295fd8ea6d245f3d
+      internalID: -615142941404223399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 148
+        width: 14
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef54ff09b670d3d469cf0a7cb65031fc
+      internalID: -6158816507460048654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 148
+        width: 14
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a431fc84b40c97f4aa9396624f495a42
+      internalID: 1703013349281533631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 148
+        width: 14
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa158f072e5a1464c83f011072a284f5
+      internalID: -1561558762622197620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 148
+        width: 14
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d218c3faaa782794c8a16fa833045111
+      internalID: -3695608963936796326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 148
+        width: 14
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33301373b15a5946ad55a4724efb139
+      internalID: -1677489088177530444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 100
+        width: 23
+        height: 46
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f7593873065614f8feb332feb810c8
+      internalID: -8996674695968594088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 100
+        width: 19
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3938485efcb8c0b4f8a4e68e802fd9b2
+      internalID: -3120885346276107433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 102
+        width: 15
+        height: 46
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128be6ab8c814a94bbfac828d1fc191c
+      internalID: -8492449094403014353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 101
+        width: 23
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce7ff0663c2e114d8cb01bcc6b8f621
+      internalID: 2590668062640732714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 101
+        width: 21
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c64bd7b98559045bc8e475c5bc6b1d
+      internalID: -2194810038397292170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 100
+        width: 15
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba2e220b2a52b1439a34480ae30b8ae
+      internalID: -6036626301250135143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_27
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 98
+        width: 15
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deda96b31bcfe4342b5a99b978a5d3fc
+      internalID: -2867710540564756239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 49
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b2cec9417e16842a17a2ead9a98961
+      internalID: 6379439100737018831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 49
+        width: 20
+        height: 45
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68b9766e21613f41aed2d146cfb3672
+      internalID: 4760510355369668833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_30
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 49
+        width: 24
+        height: 45
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d63a8782c14094c9d1b8c7363f7979
+      internalID: 3384054289545442979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 49
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b41c596b4883b4691f2ecf362bc61f
+      internalID: -2885314564803325962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 49
+        width: 15
+        height: 45
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e664c20188cef46aa0ca080e525c95
+      internalID: 2633445604606825165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_33
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 17
+        height: 45
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c98e087a863394e81bc3648712b4df
+      internalID: -5578178695210994913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 49
+        width: 18
+        height: 45
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e7635ab157f2347a1cacc58c71c421
+      internalID: -7807912894687424627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 49
+        width: 17
+        height: 45
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547946b5fd4bc9b4c8284a2bece930ef
+      internalID: -4426802842064542370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_36
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 50
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2155d1d0e1a6a4faa837ae413eaf7b
+      internalID: -7306835693083972295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_37
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 50
+        width: 20
+        height: 45
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e20eb5bf6fdbcf4a9cbd9244509f628
+      internalID: -1007154386592776894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 49
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f8c8171b3f5f4da778e27c130307a
+      internalID: -3977159147248438141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_45
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 24
+        width: 7
+        height: 6
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7dd1adff2479849bdc961c7c5b5eb5
+      internalID: 9098462410004807608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 101
+        width: 18
+        height: 40
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc111e59d1078694b86af447f602fdcd
+      internalID: 5662990971856358917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_47
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 101
+        width: 18
+        height: 40
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e89c4b5e27cb041851556e0d9adede
+      internalID: -4482631287283396142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 16
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522fb49279ee9194e9d3093be0ab4cd4
+      internalID: 759439350883306493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 18
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb3a48988cbae94fa3151966f87896f
+      internalID: 260234648352180759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 15
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a3a636a03a5ac4789039e84346f149
+      internalID: -3354387223434592634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 16
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc7312ff1674684fb2e2284e072cc32
+      internalID: 448594355624120419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2
+        width: 22
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9721b0b907248bb4888c8c8a721fd6a5
+      internalID: -1119796077097257373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_44
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2
+        width: 24
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808fc2421089b4149bcf9615f1e17e60
+      internalID: -6377399181420217445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_48
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 22
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56a60a792565b94589c3978ec158b88
+      internalID: -4295062408305419564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilesetSkeleton_49
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2
+        width: 22
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634b5a39caf942a4ca7f0249f335ca88
+      internalID: -6413362050173882586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7b0b5b5b4d5f7c54a8f42dc5019c7577
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
